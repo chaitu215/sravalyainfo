@@ -1,9 +1,9 @@
 {
-  "name": "srav",
+  "name": "SravalyaInfo",
   "version": "0.0.0",
   "engines": {
-    "node": "10.3.0"
-  },
+    "node": "10.15.3"
+  },  
   "scripts": {
     "ng": "ng",
     "start": "ng serve",
